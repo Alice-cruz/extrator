@@ -1,0 +1,1 @@
+-- Extrator de pdf que tranforma o arquivo em docs
